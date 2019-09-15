@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.machines-col{
+  border: solid;
+  margin-left: 10px;
+}
+
+.game-row{
+  width: 180px;
+  border: solid 1px blue;
+  height: 50px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.game-col{
+  width: 59.2px;
+    border: 1px solid blue;
+    height: 50px;
+    cursor: pointer;
+    font-size: 27px;
+}
